@@ -1,6 +1,6 @@
 # Hey, I'm Ukeme Ikot 👋
 
-**Mobile and Full-Stack Software Engineer | SDK Specialist**
+**Full-Stack Software Engineer | SDK Specialist**
 *Specialized in SDK Development, Systems Automation, and High-Performance Mobile Apps.*
 
 I build scalable infrastructures and production-grade mobile solutions. With a deep focus on system architecture and developer tooling, I bridge the gap between complex backend logic and seamless mobile experiences.
