@@ -59,7 +59,4 @@ I build scalable infrastructures and production-grade mobile solutions. With a d
 * 📧 **Email:** [ukemeetim2222@gmail.com](mailto:ukemeetim2222@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/ukemeikot(https://linkedin.com/in/ukemeikot)
 * 🐦 **Twitter:** [@ukeme_ikot](https://twitter.com/ukemeetim7)
-* 🌐 **Portfolio:** [ukeme-portfolio-topaz.vercel.app](https://ukemeikot.online/)
-
-**Nigeria / Worldwide 🌍**
-*"Building scalable infrastructures through logical code."*
+* 🌐 **Portfolio:** [ukemeikot.online](https://ukemeikot.online/)
